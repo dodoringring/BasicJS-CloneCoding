@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(30, 130, 218);
+}
+h1{
+  color: azure;
+}
+/* 클래스이름은 .뒤에 */
+.clicked{
+  color: blanchedalmond;
+}
+
+/*  */

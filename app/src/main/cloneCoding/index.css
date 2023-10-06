@@ -1,0 +1,14 @@
+.clicked{
+  color:blanchedalmond;
+}
+.form,
+.greetings{
+  display: none;
+}
+.showing{
+  display: block;
+}
+
+body{
+  color: aqua;
+}
